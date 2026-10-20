@@ -1,3 +1,0 @@
-Model,Best Parameters,CV ROC-AUC,Test Precision,Test Recall,Test ROC-AUC
-Logistic Regression,"{'model__C': 0.1, 'smote__k_neighbors': 5}",0.9753796682372334,0.058177117000646414,0.9183673469387755,0.9708715137011473
-Random Forest,"{'model__max_depth': 10, 'model__n_estimators': 50, 'smote__k_neighbors': 5}",0.982451562116363,0.514792899408284,0.8877551020408163,0.9853427583751565

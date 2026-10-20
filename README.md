@@ -1,5 +1,5 @@
 
-# Fraud Detection Pipeline
+# Decodelabs Project 2-Fraud Detection Pipeline
 
 A supervised machine learning project that compares Logistic Regression and Random Forest for detecting fraudulent credit card transactions in a highly imbalanced dataset.
 
